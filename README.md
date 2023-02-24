@@ -43,11 +43,11 @@ const aboutMe = {
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/cristian-ezequiel-mansilla/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Cristian%20Mansilla-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/cristian-ezequiel-mansilla/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<a href="https://www.instagram.com/_cristianmansilla_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_cristianmansilla_-blue?style=flat-square&logo=instagram"></a>
-
-<a href="mailto:cristianezequielmansilla@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-cristianezequielmansilla@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/_cristianmansilla_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+   
+<a href="mailto:cristianezequielmansilla@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 </p>
 
