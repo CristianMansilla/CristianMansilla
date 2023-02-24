@@ -51,9 +51,9 @@ const aboutMe = {
 
 </p>
 
-</br>
-
 <hr>
+
+</br>
 
 ⭐️ From [Cristian Mansilla](https://github.com/CristianMansilla) with :sparkling_heart:
 
