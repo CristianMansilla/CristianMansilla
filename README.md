@@ -1,29 +1,27 @@
-### Hi there 👋
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello World 👋
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
+<p><em>I'm Cristian a student of university degree in programming in <a href="https://www.frre.utn.edu.ar/">National Technological University.</a></br>
 </em></p>
 
 
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [HTML, CSS, Javascript, Java],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React"],
+         css: ["Bootstrap"]
       },
       backEnd: {
          java: ["Spring"],
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         misc: ["Bash"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["MongoDB", "mySQL"],
    },
    currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   Challenge: "I'm perfecting my soft and technical skills so I can get my first job as a developer",
 };
 ```
 
