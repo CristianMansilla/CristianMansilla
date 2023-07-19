@@ -1,4 +1,5 @@
 <img align="right" width="100" src="https://visitor-badge.glitch.me/badge?page_id=CristianMansilla.visitor-badge&left_text=Visitors&left_color=blue&right_color=green">
+![](https://komarev.com/ghpvc/?username=CristianMansilla&style=flat-square)
 </br>
 <div align="center">
    
