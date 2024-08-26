@@ -7,7 +7,7 @@
 
 </div>
 
-<p><em>I'm Cristian a student of university degree in programming in <a href="https://www.frre.utn.edu.ar/">National Technological University.</a></br>
+<p><em>I'm Cristian a university technician in programming from the <a href="https://www.frre.utn.edu.ar/">National Technological University.</a></br>
 </em></p>
 
 
@@ -15,18 +15,19 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [HTML, CSS, Javascript, Java],
+   code: [HTML, CSS, Javascript, Java, Dart],
    technologies: {
       frontEnd: {
+         css: ["Bootstrap"],
          js: ["React"],
-         css: ["Bootstrap"]
+         dart: ["Flutter"]
       },
       backEnd: {
          java: ["Spring"],
          js: ["Node", "Express"],
          misc: ["Bash"]
       },
-      databases: ["MongoDB", "mySQL"],
+      databases: ["MongoDB", "MySQL"],
    },
    currentOccupation: ["last year student, open for job opportunities"],
    Challenge: "I'm perfecting my soft and technical skills so I can get my first job as a developer",
