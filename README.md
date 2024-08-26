@@ -23,8 +23,8 @@ const aboutMe = {
          dart: ["Flutter"]
       },
       backEnd: {
-         java: ["Spring"],
          js: ["Node", "Express"],
+         java: ["Spring"],
          misc: ["Bash"]
       },
       databases: ["MongoDB", "MySQL"],
