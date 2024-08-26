@@ -15,7 +15,7 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [HTML, CSS, Javascript, Java, Dart],
+   code: [HTML, CSS, Javascript, Dart, Java],
    technologies: {
       frontEnd: {
          css: ["Bootstrap"],
