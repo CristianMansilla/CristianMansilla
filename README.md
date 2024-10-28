@@ -29,8 +29,8 @@ const aboutMe = {
       },
       databases: ["MongoDB", "MySQL"],
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   Challenge: "I'm perfecting my soft and technical skills so I can get my first job as a developer",
+   currentOccupation: ["Flutter Developer at Digital Express"],
+   Challenge: "On a path of constant improvement, to create software that is both functional and efficient.",
 };
 ```
 </br></br>
